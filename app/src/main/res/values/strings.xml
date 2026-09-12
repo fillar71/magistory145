@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Magistory</string>
+    <string name="app_tagline">AI-Powered Autonomous Video Editor</string>
+    <string name="welcome_title">Transform Ideas into Videos</string>
+    <string name="welcome_desc">Autonomous AI workflows that generate scripts, source royalty-free b-roll, and craft multi-track timelines in seconds.</string>
+</resources>
+

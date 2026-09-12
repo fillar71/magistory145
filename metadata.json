@@ -1,0 +1,7 @@
+{
+  "name": "Magistory",
+  "description": "Professional AI-assisted video editor for Android featuring autonomous agentic workflow, multi-track timeline, BYOK and 4K export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
